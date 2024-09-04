@@ -1,0 +1,6 @@
+pillow==10.4.0
+pystray==0.19.5
+pyuac==0.0.3
+pypiwin32==223
+pywin32==306
+pywin32-ctypes==0.2.3
